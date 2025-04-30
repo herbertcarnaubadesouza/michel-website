@@ -19,7 +19,7 @@ export const products: Product[] = [
         description:
             'Official Manchester United home jersey for the current season. Made with breathable fabric for maximum comfort.',
         price: 89.99,
-        image: '/camiseta-barca.webp?height=400&width=400',
+        image: '/placeholder.svg?height=400&width=400',
         category: 'premier-league',
         team: 'Manchester United',
         league: 'Premier League',
@@ -47,7 +47,7 @@ export const products: Product[] = [
         description:
             'Official Bayern Munich home jersey in the traditional red color. Features moisture-wicking technology.',
         price: 89.99,
-        image: '/camiseta-barca.webp?height=400&width=400',
+        image: '/placeholder.svg?height=400&width=400',
         category: 'bundesliga',
         team: 'Bayern Munich',
         league: 'Bundesliga',
@@ -61,7 +61,7 @@ export const products: Product[] = [
         description:
             'Official Liverpool away jersey for the current season. Sleek design with club crest.',
         price: 84.99,
-        image: '/camiseta-barca.webp?height=400&width=400',
+        image: '/placeholder.svg?height=400&width=400',
         category: 'premier-league',
         team: 'Liverpool',
         league: 'Premier League',
@@ -75,7 +75,7 @@ export const products: Product[] = [
         description:
             'Official Real Madrid home jersey in classic white. Elegant design with club emblem.',
         price: 94.99,
-        image: '/camiseta-barca.webp?height=400&width=400',
+        image: '/placeholder.svg?height=400&width=400',
         category: 'la-liga',
         team: 'Real Madrid',
         league: 'La Liga',
@@ -89,7 +89,7 @@ export const products: Product[] = [
         description:
             'Official Juventus home jersey with the iconic black and white stripes. Premium quality fabric.',
         price: 89.99,
-        image: '/camiseta-barca.webp?height=400&width=400',
+        image: '/placeholder.svg?height=400&width=400',
         category: 'serie-a',
         team: 'Juventus',
         league: 'Serie A',
@@ -103,7 +103,7 @@ export const products: Product[] = [
         description:
             'Official Paris Saint-Germain home jersey. Modern design with club colors.',
         price: 94.99,
-        image: '/camiseta-barca.webp?height=400&width=400',
+        image: '/placeholder.svg?height=400&width=400',
         category: 'ligue-1',
         team: 'PSG',
         league: 'Ligue 1',
@@ -117,7 +117,7 @@ export const products: Product[] = [
         description:
             'Official Manchester City home jersey in sky blue. Lightweight and comfortable.',
         price: 89.99,
-        image: '/camiseta-barca.webp?height=400&width=400',
+        image: '/placeholder.svg?height=400&width=400',
         category: 'premier-league',
         team: 'Manchester City',
         league: 'Premier League',
